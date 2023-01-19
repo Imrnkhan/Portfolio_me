@@ -1,13 +1,11 @@
 ---
-date: '2021-06-11'
-title: 'Portfolio Version 1'
-github: 'https://github.com/Roopshree6902/Personal-Portfolio'
-external: 'https://roopshree6902.github.io/Personal-Portfolio/'
+date: '2021-05-01'
+title: 'Banking System'
+github: 'https://github.com/Roopshree6902/Banking_System'
+external: 'https://github.com/Roopshree6902/Banking_System'
 tech:
-  - Hmtl
-  - CSS
-  - Bootstrap
+  - C++
 showInProjects: true
 ---
 
-Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!
+Built a project that shows the basic functionality of Banking-system like Opening account, Balance enquiry, Deposit and withdrawal. Implemented File-Handling for storage.
