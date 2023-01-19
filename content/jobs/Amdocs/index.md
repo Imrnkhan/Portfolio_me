@@ -2,7 +2,7 @@
 date: '2021-06-01'
 title: 'Campus Mantri'
 company: 'Geeks for Geeks'
-range: 'June 2021 - Present'
+range: 'June 2021 - June 2022'
 url: 'https://www.linkedin.com/posts/geeksforgeekslpu_campus-mantri-campusambassador-activity-6815903284029661184-AF8w'
 ---
 
