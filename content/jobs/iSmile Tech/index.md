@@ -1,8 +1,8 @@
 ---
 date: '2021-09-06'
-title: 'Sales Intern'
+title: 'Consultant Intern'
 company: 'Geeks for Geeks'
-range: 'September 2021 - Present'
+range: 'September 2021 - November 2021'
 url: ''
 ---
 
