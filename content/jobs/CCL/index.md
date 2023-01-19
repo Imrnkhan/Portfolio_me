@@ -2,7 +2,7 @@
 date: '2021-01-1'
 title: 'Coordinator'
 company: 'Google Developer Student Clubs'
-range: 'January 2021 - Present'
+range: 'January 2021 - May 2022'
 url: 'https://www.linkedin.com/company/gdsclpu/mycompany/'
 ---
 
