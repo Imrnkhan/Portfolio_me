@@ -1,18 +1,14 @@
 ---
 date: '2022-10-01'
-title: 'Live Chat Application'
-github: 'https://github.com/Roopshree6902/Live-Chat-Application'
-external: 'https://github.com/Roopshree6902/Live-Chat-Application'
+title: 'Placement Roadmap'
+github: 'https://github.com/Roopshree6902/Roopshree_Placement_RoadMap'
+external: 'https://github.com/Roopshree6902/Roopshree_Placement_RoadMap'
 tech:
-  - ReactJS
-  - Css
-  - Html
-  - Firebase 
-  - Socket IO
+  - python
 
 
 company: ''
 showInProjects: true
 ---
 
-Simple one-one video conference application using ReactJs. This is also perfect for small interview purposes. It can have almost all the features of Video conferencing with white board
+This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well.
