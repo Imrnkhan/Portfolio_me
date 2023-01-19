@@ -7,7 +7,7 @@ tech:
   - Dart
 
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Collection of all of my android/ios apps which i made during #flutterdevelopmentbootcamp.
