@@ -1,16 +1,15 @@
 ---
-date: '2022-05-01'
-title: 'Movie Recommendation Engine'
-github: 'https://github.com/Roopshree6902/Movie-Recommender-System'
-external: 'https://github.com/Roopshree6902/Movie-Recommender-System'
+date: '2021-05-01'
+title: 'Whatsapp Clone'
+github: 'https://github.com/Roopshree6902/Whatsapp_Clone'
+external: 'https://github.com/Roopshree6902/Whatsapp_Clone'
 tech:
   - Html
   - Css
-  - React
-  - Python
-  - Firebase
+  - React JS
+
 company: ''
 showInProjects: true
 ---
 
-This application provide information related to movie, does sentiment analysis on the movie reviews fetches reviews with analysis. the most interesting part, it provide you the top 15 movie recommendations based on your search. Used React for the fronted part deployed on firebase a flask API is deployed on heroku to connect python notebooks to frontend.
+This project is made with React.js+MongoDb database. having basic functionalities of Whatsapp. Main idea was to explore system designing.
