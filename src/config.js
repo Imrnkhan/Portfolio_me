@@ -4,7 +4,7 @@ module.exports = {
     'Roopshree is a Web Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Roopshree Udaiwal, Roopshree6902, Mern Stack Developer, web developer, javascript, girlscript, jodhpur, GDSC, GFG',
-  siteUrl: 'https://Roopshree6902.github.io/Portfolio.me',
+  siteUrl: 'https://roopshreeudaiwal.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -23,12 +23,12 @@ module.exports = {
       url: 'https://www.linkedin.com/in/roopshree-udaiwal-2831031b5/',
     },
     {
-      name: 'Codesandbox',
-      url: 'https://codesandbox.io/u/parmarroopshreeudaywal',
+      name: 'Leetcode',
+      url: 'https://leetcode.com/Shristha/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/roopshree_77/',
+      url: 'https://www.instagram.com/itishrie_',
     },
     {
       name: 'Twitter',
