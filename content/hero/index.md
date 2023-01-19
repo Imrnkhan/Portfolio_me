@@ -9,4 +9,4 @@ I'm a Problem Solver with a goal-driven creative mindset and passion for learnin
 
 An aspiring software engineer with the ability to grow as an individual and learn in the surrounding of talented people.
 
-I am always open for discussions.at [LInkedin](https://www.linkedin.com/in/roopshree-udaiwal-2831031b5/).
+I am always open for discussions @[LInkedin](https://www.linkedin.com/in/roopshree-udaiwal-2831031b5/).
