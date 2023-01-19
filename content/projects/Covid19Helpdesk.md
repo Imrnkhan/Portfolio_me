@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-This project is made with React.js+MongoDb database. having basic functionalities of Whatsapp. Main idea was to explore system designing.
+This project is made with React.js+MongoDb database. having basic functionalities of Whatsapp. 
