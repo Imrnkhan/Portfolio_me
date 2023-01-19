@@ -1,12 +1,12 @@
 ---
 title: 'Hello World! My name is'
 name: 'Roopshree Udaiwal'
-subtitle: 'I love exploring new things!'
+subtitle: 'I love to explore & code!'
 buttonText: 'Hire Me!'
 ---
 
-I'm a Mern Stack developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm a Problem Solver with a goal-driven creative mindset and passion for learning and innovating.
 
-Currently working as Campus Mantri at [GFG](https://www.geeksforgeeks.org/) and as a coordinator at [GDSC LPU](https://gdsc.community.dev/lovely-professional-university-jalandhar/).
+An aspiring software engineer with the ability to grow as an individual and learn in the surrounding of talented people.
 
-Outside work, I occasionally create amateur React-apps [Codesendbox](https://codesandbox.io/u/parmarroopshreeudaywal).
+I am always open for discussions.at [LInkedin](https://www.linkedin.com/in/roopshree-udaiwal-2831031b5/).
