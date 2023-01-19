@@ -1,9 +1,9 @@
 ---
-date: '2019-08-09'
-title: 'Contributor'
-company: 'Girlscript Winter Of Code'
-range: 'August 2021- present'
-url: 'https://www.linkedin.com/posts/roopshree-udaiwal-2831031b5_connections-opensource-contributor-activity-6830435577150758912-M4IZ'
+date: '2022-05-01'
+title: 'Mentee Microsoft Engage'
+company: 'Microsoft'
+range: 'May 2022- July 2022'
+url: 'https://www.linkedin.com/posts/roopshree-udaiwal-2831031b5_microsoftengageintern2022-microsoftintern-activity-6926871402721484800-HrL8?utm_source=share&utm_medium=member_desktop'
 ---
 
 - Selected as contributor for GWOC21.
