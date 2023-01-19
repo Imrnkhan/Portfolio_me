@@ -2,20 +2,22 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - C || C++
-  - Dart
+  - C || C++ 
+  - Data Structures
+  - Algorithms
   - HTML || CSS
   - Bootstrap
-  - Javascript
-  - Jquery || ReactJS || NodeJS || ExpressJS
+  - Javascript || Jquery
+  - ReactJS || NodeJS || ExpressJS
   - Git || Github
   - MongoBD || Heroku
+  - Firebase
 ---
 
-Hello! Interestingly, I have been a student of Maths in my high school and got introduced to programming in my freshman year at [Lovely Professional University](https://www.lpu.in/). My interest in web-development started back in 2020 during first year of B.tech . Since then, I started developing Web projects using HTML, CSS, Javascript / React.js / Node.js, MongoDB and some other cool libraries and frameworks. 
+Hello! Interestingly, I have been a student of Maths in my high school and got introduced to programming in my freshman year at [Lovely Professional University](https://www.lpu.in/). My interest in coding started back in 2020 during first year of B.tech . Since then, I started learning programming languages & solving problems based on data structure and algorithms. Most importantly I'm a [Problem Solver](https://leetcode.com/Shristha/).
 
-Today, I'm currently pursuing my Bachelors in Computer Science and Engineering (2020-2024) with [8.71 GPA aggregate](https://drive.google.com/file/d/1UoyObDi_uNiCjrvzOfDlwjaa7GkspXV6/view?usp=sharing).
+Today, I'm currently pursuing my Bachelors in Computer Science and Engineering (2020-2024) with [8.59 GPA aggregate](https://drive.google.com/file/d/1brJbT4YbCdQwL8zRaGmFkkFc2UAJUwH2/view?usp=share_link).
 
-Also I've knowledge of Flutter App Development and created some projects on that also. I'm also part of some student organisations and Leading one of them. Most important I'm a [Competitive Programmer](https://leetcode.com/Roopshree/).
+Also I've knowledge of Web Development and created some projects on that using HTML, CSS, Javascript / React.js / Node.js, MongoDB and some other cool libraries and frameworks. I'm also part of some student organisations and Leading one of them. 
 
 Here is a list of the technologies that I've worked with.
