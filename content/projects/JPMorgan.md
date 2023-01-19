@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-Built a project that shows the basic functionality of Banking-system like Opening account, Balance enquiry, Deposit and withdrawal. Implemented File-Handling for storage.
+Built a project that shows the basic functionality of Banking-system.
