@@ -70,7 +70,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/Roopshree6902/Portfolio_me')
+    fetch('https://api.github.com/repos/Roopshree6902/Portfolio.me')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
