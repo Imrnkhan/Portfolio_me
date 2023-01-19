@@ -70,7 +70,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/Roopshree6902/Portfolio.me')
+    fetch('https://api.github.com/repos/Roopshree6902/Portfolio_me')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -102,7 +102,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/Roopshree6902/Portfolio.me"
+          href="https://github.com/Roopshree6902/Portfolio_me"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
