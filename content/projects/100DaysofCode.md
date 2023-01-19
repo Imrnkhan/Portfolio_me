@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-This repository consists of all the necessary questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well.
+This repository is dedicated to placement preparation.
