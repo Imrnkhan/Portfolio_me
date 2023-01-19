@@ -1,18 +1,18 @@
 ---
-date: '2021-07-26'
-title: 'Whatsapp Clone'
-github: 'https://github.com/Roopshree6902/Whatsapp_Clone'
-external: 'https://github.com/Roopshree6902/Whatsapp_Clone'
+date: '2022-10-01'
+title: 'Live Chat Application'
+github: 'https://github.com/Roopshree6902/Live-Chat-Application'
+external: 'https://github.com/Roopshree6902/Live-Chat-Application'
 tech:
   - ReactJS
-  - CSS
-  - Node 
-  - Express
-  - MongoDB
+  - Css
+  - Html
+  - Firebase 
+  - Socket IO
 
 
 company: ''
 showInProjects: true
 ---
 
-This clone i made for learning system designing at whatsapp backend . for real time messaging i used pusher.
+Simple one-one video conference application using ReactJs. This is also perfect for small interview purposes. It can have almost all the features of Video conferencing with white board
