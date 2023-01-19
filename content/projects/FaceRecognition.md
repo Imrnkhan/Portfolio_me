@@ -9,7 +9,7 @@ tech:
   - html
   - Css
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A clone of Google Keeper to save the notes. Dedicated to #webdevelopmentbootcamp journey.
