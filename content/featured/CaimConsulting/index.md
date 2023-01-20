@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Banking System'
+title: 'Movie Recommendation Engine'
 cover: 'demo2.png'
 github: 'https://github.com/Roopshree6902/Movie-Recommender-System'
 external: 'https://github.com/Roopshree6902/Movie-Recommender-System'
