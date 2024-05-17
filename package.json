@@ -2,7 +2,7 @@
   "name": "Portfolio",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Roopshree <roopshree.udaiwal@gmail.com>",
+  "author": "Imran Khan <Imrankhan7581@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/Roopshree6902/chandrikadeb7.github.io"
@@ -10,7 +10,6 @@
   "keywords": [
     "gatsby"
   ],
-  
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
